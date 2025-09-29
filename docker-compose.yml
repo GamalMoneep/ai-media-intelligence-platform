@@ -1,0 +1,13 @@
+
+services:
+  podcast_service:
+    build: .
+    container_name: podcast_service
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - .:/app
+

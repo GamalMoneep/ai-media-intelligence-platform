@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.git/
+data/
+*.pyc
+*.pyo
+*.pyd
+.env.template
