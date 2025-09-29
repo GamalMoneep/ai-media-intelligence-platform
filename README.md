@@ -1,6 +1,6 @@
 # AI-Powered Media Intelligence Platform
 
-A comprehensive Python service that downloads, transcribes, translates, and summarizes both audio and video content using advanced Whisper ML models and LLM-based summarization.
+A comprehensive service that downloads, transcribes, translates, and summarizes both audio and video content using advanced Whisper ML models and LLM-based summarization.
 ## Features
 
 - Download and process individual media files (audio/video) or entire feeds
